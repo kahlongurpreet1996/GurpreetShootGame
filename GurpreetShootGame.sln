@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurpreetShootGame", "GurpreetShootGame\GurpreetShootGame.csproj", "{5835B30E-7C97-44AD-B598-A45EC9746936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GurpreetShootGameTests", "GurpreetShootGameTests\GurpreetShootGameTests.csproj", "{92815F89-20E4-4B7C-B1F6-66389D971A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5835B30E-7C97-44AD-B598-A45EC9746936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5835B30E-7C97-44AD-B598-A45EC9746936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5835B30E-7C97-44AD-B598-A45EC9746936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5835B30E-7C97-44AD-B598-A45EC9746936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92815F89-20E4-4B7C-B1F6-66389D971A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92815F89-20E4-4B7C-B1F6-66389D971A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92815F89-20E4-4B7C-B1F6-66389D971A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92815F89-20E4-4B7C-B1F6-66389D971A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7589D191-88EC-4590-8CE4-4C83B2E7CE23}
+	EndGlobalSection
+EndGlobal
